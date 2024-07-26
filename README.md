@@ -8,4 +8,4 @@ A quick look at the webs.
 <br><hr><br>
 <img src="https://i.imgur.com/31EobQc.png" title="source: imgur.com" />
 
-
+<a href="https://github.com/simranspatel/">Click here</a> to follow me. <br><br>Thank You.
